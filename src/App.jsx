@@ -62,7 +62,7 @@ const desserts = (
 )
 
 
-export default function App() {
+function App() {
   return (
     <main>
       <h1>Nik Afiq Fried Chicken</h1>
@@ -73,3 +73,5 @@ export default function App() {
     </main>
   )
 }
+
+export default App;
